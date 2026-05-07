@@ -139,15 +139,6 @@ This project aims to:
 
 ---
 
-## Authors
-
-- Avik Halder
-- Akibul Hasan Anik
-- Hrithik Das
-- Suman Saha
-
----
-
 ## License
 
 This project is intended for research and educational purposes.
