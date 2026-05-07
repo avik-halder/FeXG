@@ -1,0 +1,10 @@
+fastapi[standard]
+pydantic
+sqlmodel
+bcrypt
+python-jose
+jwt
+passlib
+tensorflow
+numpy
+scipy

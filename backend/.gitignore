@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Node.js
+node_modules/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TensorFlow / model cache
+
+# Temporary files
+temp/
+tmp/
+2000.py
+
+# React build
+website/build/
+
+# Python cache
+*/__pycache__/
+
+# Package lock optional
+package-lock.json
+
+# Coverage
+coverage/
+
+# Pytest
+.pytest_cache/
