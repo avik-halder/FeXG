@@ -2,6 +2,8 @@
 
 FexG is a privacy-preserving and explainable AI framework for ECG arrhythmia classification using Federated Learning and Deep Learning. The project combines distributed training with explainability techniques to classify ECG heartbeat signals while preserving patient data privacy.
 
+<img src="frontend/ecg-frontend/src/assets/FexG.png" width="auto">
+
 ---
 
 ## Features
